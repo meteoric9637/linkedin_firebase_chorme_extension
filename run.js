@@ -10,11 +10,11 @@ $(document).ready(function()
 	* Init FireBase
 	*/
 	var config = {
-		apiKey: "AIzaSyCq75-IARo7IaNr4hMJ6yU13xYOL0TUEV4",
-		authDomain: "orca-chrome-extension.firebaseapp.com",
-		databaseURL: "https://orca-chrome-extension.firebaseio.com",
-		storageBucket: "gs://orca-chrome-extension.appspot.com",
-		messagingSenderId: "<SENDER_ID>",
+		apiKey: "",
+		authDomain: "",
+		databaseURL: "",
+		storageBucket: "",
+		messagingSenderId: "",
 	};
 	firebase.initializeApp(config);
 
